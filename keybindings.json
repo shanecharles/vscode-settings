@@ -1,0 +1,9 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    { "key": "ctrl+;",                "command": "fsi.SendSelection",
+                                     "when": "editorTextFocus" },
+    { "key": "ctrl+'",                "command": "fsi.SendLine",
+                                     "when": "editorTextFocus" },
+    { "key": "ctrl+i",                "command": "fsi.Start",
+                                     "when": "editorTextFocus" }
+]
