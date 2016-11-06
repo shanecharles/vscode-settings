@@ -4,6 +4,6 @@ My settings and keybindings for Visual Studio Code.
 
 ## F# Keybindings ##
 
-* `Ctrl+i` to start FSharp Interactive (REPL) 
-* `Ctrl+'` to send the current line to REPL
-* `Ctrl+;` to send the current selection to REPL
+* `Ctrl+i` Start FSharp Interactive (REPL) 
+* `Ctrl+'` Send the current line to REPL
+* `Ctrl+;` Send the current selection to REPL
